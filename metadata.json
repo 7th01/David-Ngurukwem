@@ -1,0 +1,8 @@
+{
+  "name": "Statedge Intelligence",
+  "description": "AI-powered business intelligence and data analytics platform by Statedge Data Analytics. Turning Data into Better Decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
